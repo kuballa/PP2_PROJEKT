@@ -1,0 +1,20 @@
+﻿  Author.cpp
+  Bullet.cpp
+  Enemy.cpp
+A:\ISI\ISI S2\PODSTAWYPROGRAMOWANIA2\Gierka3_Final\Gierka3_Final\Enemy.cpp(16,41): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Game.cpp
+  main.cpp
+A:\ISI\ISI S2\PODSTAWYPROGRAMOWANIA2\Gierka3_Final\Gierka3_Final\main.cpp(20,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+A:\ISI\ISI S2\PODSTAWYPROGRAMOWANIA2\Gierka3_Final\Gierka3_Final\main.cpp(20,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Menu.cpp
+  Player.cpp
+  Generating Code...
+  Gierka3_Final.vcxproj -> A:\ISI\ISI S2\PODSTAWYPROGRAMOWANIA2\Gierka3_Final\x64\Debug\Gierka3_Final.exe
